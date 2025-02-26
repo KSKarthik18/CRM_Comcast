@@ -9,7 +9,7 @@ public class Productspage {
 	//Hi karthik
 	
 	//Hi Luffyswamy
-	
+	//yonko
 	@FindBy(xpath = "Name")
 	private WebElement ele1;
 }
